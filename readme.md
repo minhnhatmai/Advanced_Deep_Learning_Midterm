@@ -1,4 +1,4 @@
-# KMNIST Feedforward Neural Network with Adam Optimizer
+# KMNIST Feedforward Neural Network with optimizers (Adam ,AdamW and RMSProp)
 
 This project trains a feedforward neural network on the KMNIST dataset using TensorFlow and Keras, with K-Fold cross-validation and optimizers (Adam ,AdamW and RMSProp).
 
